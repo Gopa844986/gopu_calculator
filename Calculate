@@ -55,6 +55,9 @@
 <form name="formstyle">
 <input class="textdisplay" type="text" name="ans"><br>
 <input class="button" type="button" name=""value="1" oneclick="formstyle.ans.value +=1">
+<input class="button" type="button" name=""value="2" oneclick="formstyle.ans.value +=2">
+<input class="button" type="button" name=""value="3" oneclick="formstyle.ans.value +=3"><br>
+
 
  
 
