@@ -10,7 +10,7 @@
              Padding:0;
            }
                body{
-                     Height:720px;
+                     Height: 720px;
                     
                      Background-image:linear-gradient(to bottom right green,red,blue;
   
@@ -22,8 +22,8 @@
                         Left:500px;
 
               .button{
-                      Width:55px;
-                      Height:50px;
+                      Width: 55px;
+                      Height: 50px ;
                       Font-size:25px;
                       Margin:5px;
                       Margin-left:14px;
