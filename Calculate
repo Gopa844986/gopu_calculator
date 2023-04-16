@@ -75,6 +75,13 @@
 <input class="button" type="button" name=""value="=" oneclick="formstyle.ans.value +=equal(formstyle.ans.value)"><br>
 
 
+<input class="button" type="button" name=""value="clear" oneclick="formstyle.ans.value=""id='clear all'">
+</from>
+
+
+</div>
+</body>
+</html>
 
 
 
