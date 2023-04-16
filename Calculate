@@ -58,6 +58,26 @@
 <input class="button" type="button" name=""value="2" oneclick="formstyle.ans.value +=2">
 <input class="button" type="button" name=""value="3" oneclick="formstyle.ans.value +=3"><br>
 
+<input class="button" type="button" name=""value="4" oneclick="formstyle.ans.value +=4">
+<input class="button" type="button" name=""value="5" oneclick="formstyle.ans.value +=5">
+<input class="button" type="button" name=""value="6" oneclick="formstyle.ans.value +=6"><br>
+
+<input class="button" type="button" name=""value="7" oneclick="formstyle.ans.value +=7">
+<input class="button" type="button" name=""value="8" oneclick="formstyle.ans.value +=8">
+<input class="button" type="button" name=""value="9" oneclick="formstyle.ans.value +=9"><br>
+
+<input class="button" type="button" name=""value="+" oneclick="formstyle.ans.value +=+">
+<input class="button" type="button" name=""value="*" oneclick="formstyle.ans.value +=*">
+<input class="button" type="button" name=""value="-" oneclick="formstyle.ans.value +=-"><br>
+
+<input class="button" type="button" name=""value="/" oneclick="formstyle.ans.value +=/">
+<input class="button" type="button" name=""value="0" oneclick="formstyle.ans.value +=0">
+<input class="button" type="button" name=""value="=" oneclick="formstyle.ans.value +=equal(formstyle.ans.value)"><br>
+
+
+
+
+
 
  
 
