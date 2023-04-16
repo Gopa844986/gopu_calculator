@@ -9,4 +9,13 @@
              Margin:0;
              Padding:0;
            }
+               body{
+                     Height:720px;
+                    
+                     Background-image:linear-gradient(to bottom right green,red,blue;
+  
+                   }
+           }
+               .divstyle{
+                     Position:absolute;
 
