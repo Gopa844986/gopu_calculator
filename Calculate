@@ -46,6 +46,16 @@
                      Width:100px;
                      Margin-left:60px;
               }
+</style>
+</head>
+<body>
+
+
+<div class="divstyle">
+<form name="formstyle">
+<input class="textdisplay" type="text" name="ans"><br>
+<input class="button" type="button" name=""value="1" oneclick="formstyle.ans.value +=1">
+
  
 
 
