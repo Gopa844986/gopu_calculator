@@ -18,4 +18,34 @@
            }
                .divstyle{
                      Position:absolute;
+                        Top:150px;
+                        Left:500px;
+
+              .button{
+                      Width:55px;
+                      Height:50px;
+                      Font-size:25px;
+                      Margin:5px;
+                      Margin-left:14px;
+                      Cursor:pointer;
+                      Border:2px;
+                      Background-color:blue;
+                      Color:white;
+                }
+               
+        .textdisplay{ 
+                      Width:215px;
+                      Margin:5px;
+                      Font-size:25px;
+                      Padding:5px;
+                      Border:2px;
+                    }
+   
+        #clear{
+                     Position:relative;
+                     Width:100px;
+                     Margin-left:60px;
+              }
+ 
+
 
